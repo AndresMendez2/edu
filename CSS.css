@@ -1,0 +1,22 @@
+nav {
+    width: 300px;
+    border: 0px
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+.menu a {
+    background: rgba(84, 41, 255, 0.767);
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+  }
+  
+.menu a:hover {
+    background: rgb(176, 199, 255);
+  }
